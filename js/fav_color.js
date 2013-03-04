@@ -10,13 +10,8 @@ $(
   		$("body").css ('background-color', faveColour);
 
 	} else {
-  		$("body").css ('background-color', "white");
-  		$("h2").html("We don't have that colour");
+  		$("h2").html("Sorry, We don't have that colour");
   }
-
-
-
-
 
 	}
 );
